@@ -1,0 +1,41 @@
+\contentsline {section}{\numberline {1}摘要}{2}{section.1}%
+\contentsline {section}{\numberline {2}任务一：安装虚拟机}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}任务内容}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}任务分析}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}任务实现}{3}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}安装虚拟机软件}{3}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}安装 Ubuntu 22.04 LTS 操作系统}{13}{subsubsection.2.3.2}%
+\contentsline {section}{\numberline {3}任务二：安装 C 语言编译器}{35}{section.3}%
+\contentsline {subsection}{\numberline {3.1}任务内容}{35}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}任务分析}{35}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}任务实现}{35}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}安装最新版本的 GCC}{35}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}验证编译器安装成功}{37}{subsubsection.3.3.2}%
+\contentsline {section}{\numberline {4}任务三：实现排序算法}{38}{section.4}%
+\contentsline {subsection}{\numberline {4.1}任务内容}{38}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}任务分析}{38}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}任务实现}{39}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}冒泡排序}{39}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}基础堆排序}{40}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3}斐波那契堆排序}{43}{subsubsection.4.3.3}%
+\contentsline {section}{\numberline {5}任务四：生成测试数据}{59}{section.5}%
+\contentsline {subsection}{\numberline {5.1}任务内容}{59}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}任务分析}{59}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}任务实现}{59}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}自动生成测试数据}{59}{subsubsection.5.3.1}%
+\contentsline {section}{\numberline {6}任务五：编译与性能测试}{60}{section.6}%
+\contentsline {subsection}{\numberline {6.1}任务内容}{60}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}任务分析}{60}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}任务实现}{61}{subsection.6.3}%
+\contentsline {subsubsection}{\numberline {6.3.1}冒泡排序}{61}{subsubsection.6.3.1}%
+\contentsline {subsubsection}{\numberline {6.3.2}基础堆排序}{63}{subsubsection.6.3.2}%
+\contentsline {section}{\numberline {7}任务六：数据记录与可视化}{66}{section.7}%
+\contentsline {subsection}{\numberline {7.1}任务内容}{66}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}任务分析}{67}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}任务实现}{67}{subsection.7.3}%
+\contentsline {subsubsection}{\numberline {7.3.1}收集运行结果}{67}{subsubsection.7.3.1}%
+\contentsline {subsubsection}{\numberline {7.3.2}分析算法的时间复杂度}{67}{subsubsection.7.3.2}%
+\contentsline {subsubsection}{\numberline {7.3.3}记录数据}{67}{subsubsection.7.3.3}%
+\contentsline {subsubsection}{\numberline {7.3.4}绘制图表}{67}{subsubsection.7.3.4}%
+\contentsline {subsubsection}{\numberline {7.3.5}结果展示}{68}{subsubsection.7.3.5}%
+\contentsline {section}{\numberline {8}实验过程中遇到的问题及解决方案}{70}{section.8}%
